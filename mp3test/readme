@@ -1,0 +1,3 @@
+mprtest.ino
+
+DFPlayer Mini を接続して、SDCARDに入っているmp3データを１０秒ごとに慣らしていく
